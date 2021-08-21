@@ -1,0 +1,4 @@
+chatterbot
+googlesearch
+selenium
+webdriver_manager.chrome
