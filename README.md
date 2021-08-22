@@ -30,7 +30,7 @@ Bill was made just in python, but it use some libs, as:
 
 Bill Bot requires [Python](https://www.python.org/) v3.7+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and devDependencies and start the program.
 
 ```sh
 pip install chatterbot
